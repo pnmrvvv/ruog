@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 32-9\\Пономарев\\dima\\dima.csproj",
+      "projectUniqueName": "F:\\ruog\\dima.csproj",
       "projectName": "dima",
-      "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 32-9\\Пономарев\\dima\\dima.csproj",
+      "projectPath": "F:\\ruog\\dima.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 32-9\\Пономарев\\dima\\obj\\",
+      "outputPath": "F:\\ruog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
